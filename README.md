@@ -31,12 +31,12 @@
         <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Jupyter" />      
       <br>Jupyter
     </td>
-  </tr>
   <tr>
     <td align="center" width="96">     
         <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
       <br>MySQL
     </td>
+	  </tr>
     <td align="center" width="96">    
         <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="NodeJs" />   
       <br>NodeJs
