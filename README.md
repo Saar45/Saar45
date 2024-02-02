@@ -31,12 +31,12 @@
         <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Jupyter" />      
       <br>Jupyter
     </td>
+	  </tr>
   <tr>
     <td align="center" width="96">     
         <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
       <br>MySQL
-    </td>
-	  </tr>
+    </td>  
     <td align="center" width="96">    
         <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="NodeJs" />   
       <br>NodeJs
@@ -131,16 +131,8 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="./photos/competence/elastic-elasticsearch.png" width="48" height="48" alt="Elastic" />
-      <br>Elastic
-    </td>
-    <td align="center" width="96"> 
-        <img src="./photos/competence/neo4j.png" width="48" height="48" alt="neo4j.png" />
-      <br>Neo4j
-    </td>
-    <td align="center" width="96">
-        <img src="./photos/competence/tableau.png" width="48" height="48" alt="Tableau" />
-      <br>Tableau
+        <img src="./photos/competence/windows.png" width="48" height="48" alt="Elastic" />
+      <br>Windows
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/power-bi.png" width="48" height="48" alt="PowerBI" />
