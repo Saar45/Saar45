@@ -49,6 +49,8 @@
         <img src="./photos/competence/Visual_Studio_Code.png" width="48" height="48" alt="Golang" />  
       <br>Code
     </td>
+	  </tr>
+	<tr>
      <td align="center" width="96">
         <img src="./photos/competence/netbeans.png" width="48" height="48" alt="Golang" />  
       <br>NetBeans
@@ -131,7 +133,7 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="./photos/competence/windows.png" width="48" height="48" alt="Elastic" />
+        <img src="./windows.png" width="48" height="48" alt="Elastic" />
       <br>Windows
     </td>
     <td align="center" width="96">
