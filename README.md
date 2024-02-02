@@ -1,4 +1,3 @@
-# Sarr-Portfolio
 
 <div align="center">
 	<img src="./sarr.gif" alt="Marton Lederer" />
