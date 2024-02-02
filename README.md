@@ -10,7 +10,7 @@
 
 <table align="center">
    <tr>
-   <td colspan="9" align="center">
+   <td colspan="12" align="center">
         💼 Tools
     </td>
   </tr>
@@ -135,10 +135,6 @@
     <td align="center" width="96"> 
         <img src="./windows.png" width="48" height="48" alt="Elastic" />
       <br>Windows
-    </td>
-    <td align="center" width="96">
-        <img src="./photos/competence/power-bi.png" width="48" height="48" alt="PowerBI" />
-      <br>PowerBI
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
