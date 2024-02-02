@@ -1,7 +1,7 @@
 # Sarr-Portfolio
 
 <div align="center">
-	<h1> SARR </h1>
+	<img src="./sarr.gif" alt="Marton Lederer" />
 </div>
 
 ---
